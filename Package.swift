@@ -1,10 +1,5 @@
-//
-//  Package.swift
-//  SSSurvey3
-//
-//  Created by akshaygupta on 28/06/24.
-//
 
+// swift-tools-version:5.0
 import PackageDescription
 
 let package = Package(
