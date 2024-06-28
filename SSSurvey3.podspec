@@ -13,7 +13,7 @@ IT is a framework which will be useful for performing the different surveys.
     s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
   s.requires_arc = true
-  s.source_files = 'SSSurvey3/SSSurvey3/**/*.{h,m,swift}'
+  s.source_files = 'SSSurvey3/Sources/**/*.{h,m,swift}'
 
-  # s.public_header_files = 'SSSurvey3/SSSurvey3/**/*.h'
+  # s.public_header_files = 'SSSurvey3/Sources/**/*.h'
 end
